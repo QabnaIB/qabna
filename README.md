@@ -1,7 +1,7 @@
 Qabna - An imageboard.
-Below is the original README.md for TinyIB.
--------------
-▽▽▽▽▽▽▽▽▽▽▽▽▽▽
+Below is the original README.md for TinyIB. In the zip file is the files you need for your boards.
+
+====
 TinyIB - A Lightweight and Efficient [Image Board](http://en.wikipedia.org/wiki/Imageboard) Script
 ====
 
